@@ -5,7 +5,7 @@ services:
     environment:
       VERSION: "8"
       DISK_SIZE: "100G"
-      LANGUAGE: "German"
+      LANGUAGE: "English"
       REGION: "de-CH"
       KEYBOARD: "de-CH"
     devices:

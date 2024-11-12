@@ -26,7 +26,15 @@ Windows inside a Docker container.
 
 ## Usage 🐳
 
-Via Docker Compose:
+Initialise Virtual Environment:
+
+```bash
+cd windows
+
+sudo docker-compose up -d
+```
+
+Via Docker Compose (Edit if needed):
 
 ```yaml
 services:
